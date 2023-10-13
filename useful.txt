@@ -1,0 +1,21 @@
+const theme = {
+    darkTheme: {
+
+        backGround: "#15202b",
+        componentBackground: "#192734",
+        hoverColor: "#22303c",
+        primaryText: "#ffffff",
+        secondaryText: "8899a6",
+        buttonColor: "#EFF3F4",
+    },
+    LightTheme: {
+        backGround: "#FFFFFF",
+        componentBackground: "#EFF3F4",
+        hoverColor: "#22303c",
+        primaryText: "#0F1419",
+        secondaryText: "#72808A",
+        buttonColor: "#8DCCF7"
+    }
+}
+
+export default theme;
